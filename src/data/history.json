@@ -1,0 +1,74 @@
+<<<<<<< HEAD
+
+  [
+    {
+      "role": "Associate Technology L1",
+      "organization": "Publicis Sapient",
+      "startDate": "Jan, 2023",
+      "endDate": "May, 2023",
+      "experiences": [
+        "Thoroughly test the code for browser compatibility and analyze existing code for scalability.", 
+        "Reduced page load time by 40% using Chrome Developer Tools, resulting in better user experience and conversion rates."
+      ],
+      "imageSrc": "history/sapient.jpg"
+    },
+    {
+      "role": "Junior Associate Experience Technology",
+      "organization": "Publicis Sapient",
+      "startDate": "Oct, 2022",
+      "endDate": "Dec, 2022",
+      "experiences": [
+        "Collaborating with others to enhance website designs and optimize algorithms.", 
+        "Resulted in a 45% decrease in load times and a 25% increase in user engagement."
+      ],
+      "imageSrc": "history/sapient.jpg"
+    },
+    {
+      "role": "Junior Associate Technology",
+      "organization": "Publicis Sapient",
+      "startDate": "July, 2022",
+      "endDate": "Sep, 2022",
+      "experiences": [
+        "Have exceptional expertise in developing web pages using JavaScript and ReactJS.", 
+        "Custom CSS stylesheets were implemented, resulting in a 35% increase in user engagement and a 25% decrease in bounce rate."
+      ],
+      "imageSrc": "history/sapient.jpg"
+    }
+=======
+
+  [
+    {
+      "role": "Associate Technology L1",
+      "organization": "Publicis Sapient",
+      "startDate": "Jan, 2023",
+      "endDate": "May, 2023",
+      "experiences": [
+        "Thoroughly test the code for browser compatibility and analyze existing code for scalability.", 
+        "Reduced page load time by 40% using Chrome Developer Tools, resulting in better user experience and conversion rates."
+      ],
+      "imageSrc": "history/sapient.jpg"
+    },
+    {
+      "role": "Junior Associate Experience Technology",
+      "organization": "Publicis Sapient",
+      "startDate": "Oct, 2022",
+      "endDate": "Dec, 2022",
+      "experiences": [
+        "Collaborating with others to enhance website designs and optimize algorithms.", 
+        "Resulted in a 45% decrease in load times and a 25% increase in user engagement."
+      ],
+      "imageSrc": "history/sapient.jpg"
+    },
+    {
+      "role": "Junior Associate Technology",
+      "organization": "Publicis Sapient",
+      "startDate": "July, 2022",
+      "endDate": "Sep, 2022",
+      "experiences": [
+        "Have exceptional expertise in developing web pages using JavaScript and ReactJS.", 
+        "Custom CSS stylesheets were implemented, resulting in a 35% increase in user engagement and a 25% decrease in bounce rate."
+      ],
+      "imageSrc": "history/sapient.jpg"
+    }
+>>>>>>> bca2f0337519fa483cddaff029d2d95ec380c8e5
+  ]

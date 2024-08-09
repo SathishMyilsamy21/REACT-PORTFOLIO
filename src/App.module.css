@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+@import "./vars.css";
+
+.App {
+  background-color: var(--color-bg);
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+=======
+@import "./vars.css";
+
+.App {
+  background-color: var(--color-bg);
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+>>>>>>> bca2f0337519fa483cddaff029d2d95ec380c8e5
