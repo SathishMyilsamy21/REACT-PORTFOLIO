@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
 
   {
@@ -61,68 +60,4 @@
     "title": "VS Code",
     "imageSrc": "skills/VSCode.jpg"
   }
-=======
-[
-
-  {
-    "title": "figma",
-    "imageSrc": "skills/figma.png"
-  },
-  {
-    "title": "Jest",
-    "imageSrc": "skills/jest.png"
-  },
-  {
-    "title": "EJS",
-    "imageSrc": "skills/ejs.svg"
-  },
-  {
-    "title": "Express",
-    "imageSrc": "skills/express.png"
-  },
-  {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
-  },
-  {
-    "title": "React",
-    "imageSrc": "skills/react.svg"
-  },
-  {
-    "title": "JSON",
-    "imageSrc": "skills/json.png"
-  },
-  {
-    "title": "jQuery",
-    "imageSrc": "skills/jQuery.png"
-  },
-  {
-    "title": "GitHub",
-    "imageSrc": "skills/github.jpg"
-  },
-  {
-    "title": "Git",
-    "imageSrc": "skills/git.png"
-  },
-  {
-    "title": "Bootstrap",
-    "imageSrc": "skills/bootstrap.jpeg"
-  },
-  {
-    "title": "JavaScript",
-    "imageSrc": "skills/js.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "VS Code",
-    "imageSrc": "skills/VSCode.jpg"
-  }
->>>>>>> bca2f0337519fa483cddaff029d2d95ec380c8e5
 ]

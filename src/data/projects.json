@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
     {
       "title": "StopWatch Timer",
@@ -42,49 +41,4 @@
       "demo": "https://react-keeper-app-one.vercel.app/",
       "source": "https://github.com/SathishMyilsamy21/REACT_KEEPER-APP/tree/main/Keeper-App"
     }
-=======
-[
-    {
-      "title": "StopWatch Timer",
-      "imageSrc": "projects/project.png",
-      "skills": ["HTML", "CSS", "JS"],
-      "demo": "https://stopwatch-timer-project.vercel.app/",
-      "source": "https://github.com/SathishMyilsamy21/Stopwatch-Timer-Project"
-    },
-    {
-      "title": "Vowel Counter",
-      "imageSrc": "projects/project.png",
-      "skills": ["HTML", "CSS", "JS"],
-      "demo": "https://vowel-counter-application-project.vercel.app/",
-      "source": "https://github.com/SathishMyilsamy21/Vowel-Counter-Application-Project"
-    },
-    {
-      "title": "Poll System",
-      "imageSrc": "projects/project.png",
-      "skills": ["HTML", "CSS", "JS"],
-      "demo": "https://poll-system-application.vercel.app/",
-      "source": "https://github.com/SathishMyilsamy21/POLL-SYSTEM-APPLICATION"
-    },
-    {
-      "title": "Loan Calculator",
-      "imageSrc": "projects/project.png",
-      "skills": ["HTML", "CSS", "JS"],
-      "demo": "https://loan-calculator-app-seven.vercel.app/",
-      "source": "https://github.com/SathishMyilsamy21/LOAN-CALCULATOR-APP"
-    },
-    {
-      "title": "E-Commerce Filtering",
-      "imageSrc": "projects/project.png",
-      "skills": ["CSS" ,"JS","React"],
-      "demo": "https://sathish-e-commerce-advance-filtering.vercel.app/",
-      "source": "https://github.com/SathishMyilsamy21/React_E-Commerce"
-    },
-    {
-      "title": "Keeper App",
-      "imageSrc": "projects/project.png",
-      "skills": ["CSS", "JS", "React"],
-      "demo": "https://react-keeper-app-one.vercel.app/",
-      "source": "https://github.com/SathishMyilsamy21/REACT_KEEPER-APP"
-    }
->>>>>>> bca2f0337519fa483cddaff029d2d95ec380c8e5
   ]

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 :root {
     /* Colors */
     --color-text: #fff;
@@ -9,16 +8,4 @@
 
     /* Fonts */
     --font-roboto: "Roboto";
-=======
-:root {
-    /* Colors */
-    --color-text: #fff;
-    --color-primary: #576cbc;
-    --color-secondary: #19376d;
-    --color-dark: #0b2447;
-    --color-bg: #04152d;
-
-    /* Fonts */
-    --font-roboto: "Roboto";
->>>>>>> bca2f0337519fa483cddaff029d2d95ec380c8e5
 }
