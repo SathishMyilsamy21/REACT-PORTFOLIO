@@ -1,12 +1,5 @@
 [
   {
-    "title": "StopWatch Timer",
-    "imageSrc": "projects/project.png",
-    "skills": ["HTML", "CSS", "JS"],
-    "demo": "https://stopwatch-timer-project.vercel.app/",
-    "source": "https://github.com/SathishMyilsamy21/Stopwatch-Timer-Project"
-  },
-  {
     "title": "Poll System",
     "imageSrc": "projects/project.png",
     "skills": ["HTML", "CSS", "JS"],
@@ -26,6 +19,13 @@
     "skills": ["CSS" ,"JS","React"],
     "demo": "https://sathish-quiz-app.vercel.app/",
     "source": "https://github.com/SathishMyilsamy21/QUIZ-APP/tree/main/quiz-app"
+  },
+  {
+    "title": "Gemini Clone",
+    "imageSrc": "projects/project.png",
+    "skills": ["CSS", "JS", "React"],
+    "demo": "https://gemini-clone-app-iota.vercel.app/",
+    "source": "https://github.com/SathishMyilsamy21/03-GEMINI_CLONE_APP"
   },
   {
     "title": "Weather App",
