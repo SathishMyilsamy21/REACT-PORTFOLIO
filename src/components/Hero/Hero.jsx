@@ -14,7 +14,7 @@ const Hero = () => {
           </p>
           <a
             className={styles.contactBtn}
-            href="https://drive.google.com/file/d/1L31AzqIe347c_tWphdUAKTbXvYA4LHzL/view?usp=sharing"
+            href="https://drive.google.com/file/d/1RhFeZuBkf9KdIx1veRiQ8kMUf2Pkp-Is/view?usp=sharing"
           >
             Download Resume
           </a>
