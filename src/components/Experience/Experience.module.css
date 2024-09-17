@@ -75,7 +75,7 @@
 }
 
 .historyItem img {
-  width: 75px;
+  width: 30%;
 }
 
 .historyItemDetails {
@@ -116,5 +116,9 @@
   .history {
     width: 100%;
     gap: 9px;
+  }
+
+  .historyItem img {
+    width: 30%;
   }
 }

@@ -6,8 +6,7 @@
       "startDate": "Jan, 2023",
       "endDate": "May, 2023",
       "experiences": [
-        "Thoroughly test the code for browser compatibility and analyze existing code for scalability.", 
-        "Reduced page load time by 40% using Chrome Developer Tools, resulting in better user experience and conversion rates."
+        "React","Node", "Express", "EJS", "Jest"
       ],
       "imageSrc": "history/sapient.jpg"
     },
@@ -17,9 +16,8 @@
       "startDate": "Oct, 2022",
       "endDate": "Dec, 2022",
       "experiences": [
-        "Collaborating with others to enhance website designs and optimize algorithms.", 
-        "Resulted in a 45% decrease in load times and a 25% increase in user engagement."
-      ],
+        "Bootstrap","jQuery", "JSON", "GitHub", "Figma"
+        ],
       "imageSrc": "history/sapient.jpg"
     },
     {
@@ -28,9 +26,8 @@
       "startDate": "July, 2022",
       "endDate": "Sep, 2022",
       "experiences": [
-        "Have exceptional expertise in developing web pages using JavaScript and ReactJS.", 
-        "Custom CSS stylesheets were implemented, resulting in a 35% increase in user engagement and a 25% decrease in bounce rate."
-      ],
+        "HTML", "CSS", "JavaScript", "Git", "Jira"
+        ],
       "imageSrc": "history/sapient.jpg"
     }
   ]

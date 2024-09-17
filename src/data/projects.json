@@ -1,44 +1,44 @@
 [
-  {
-    "title": "Poll System",
-    "imageSrc": "projects/project.png",
-    "skills": ["HTML", "CSS", "JS"],
-    "demo": "https://poll-system-application.vercel.app/",
-    "source": "https://github.com/SathishMyilsamy21/POLL-SYSTEM-APPLICATION"
-  },
-  {
-    "title": "Loan Calculator",
-    "imageSrc": "projects/project.png",
-    "skills": ["HTML", "CSS", "JS"],
-    "demo": "https://loan-calculator-app-seven.vercel.app/",
-    "source": "https://github.com/SathishMyilsamy21/LOAN-CALCULATOR-APP"
-  },
-  {
-    "title": "Quiz App",
-    "imageSrc": "projects/project.png",
-    "skills": ["CSS" ,"JS","React"],
-    "demo": "https://sathish-quiz-app.vercel.app/",
-    "source": "https://github.com/SathishMyilsamy21/QUIZ-APP/tree/main/quiz-app"
-  },
-  {
-    "title": "Gemini Clone",
-    "imageSrc": "projects/project.png",
-    "skills": ["CSS", "JS", "React"],
-    "demo": "https://gemini-clone-app-iota.vercel.app/",
-    "source": "https://github.com/SathishMyilsamy21/03-GEMINI_CLONE_APP"
-  },
-  {
-    "title": "Weather App",
-    "imageSrc": "projects/project.png",
-    "skills": ["CSS", "JS", "React"],
-    "demo": "https://weather-app-sigma-lac.vercel.app/",
-    "source": "https://github.com/SathishMyilsamy21/02-WEATHER_APP"
-  },
-  {
-    "title": "Keeper App",
-    "imageSrc": "projects/project.png",
-    "skills": ["CSS", "JS", "React"],
-    "demo": "https://react-keeper-app-one.vercel.app/",
-    "source": "https://github.com/SathishMyilsamy21/REACT_KEEPER-APP/tree/main/Keeper-App"
-  }
-]
+    {
+      "title": "Poll System",
+      "imageSrc": "projects/project.png",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://poll-system-application.vercel.app/",
+      "source": "https://github.com/SathishMyilsamy21/POLL-SYSTEM-APPLICATION"
+    },
+    {
+      "title": "Loan Calculator",
+      "imageSrc": "projects/project.png",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://loan-calculator-app-seven.vercel.app/",
+      "source": "https://github.com/SathishMyilsamy21/LOAN-CALCULATOR-APP"
+    },
+    {
+      "title": "Quiz App",
+      "imageSrc": "projects/project.png",
+      "skills": ["CSS" ,"JS","React"],
+      "demo": "https://sathish-quiz-app.vercel.app/",
+      "source": "https://github.com/SathishMyilsamy21/QUIZ-APP/tree/main/quiz-app"
+    },
+    {
+      "title": "Gemini Clone",
+      "imageSrc": "projects/project.png",
+      "skills": ["CSS", "JS", "React"],
+      "demo": "https://gemini-clone-app-iota.vercel.app/",
+      "source": "https://github.com/SathishMyilsamy21/03-GEMINI_CLONE_APP"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/project.png",
+      "skills": ["CSS", "JS", "React"],
+      "demo": "https://weather-app-sigma-lac.vercel.app/",
+      "source": "https://github.com/SathishMyilsamy21/02-WEATHER_APP"
+    },
+    {
+      "title": "Keeper App",
+      "imageSrc": "projects/project.png",
+      "skills": ["CSS", "JS", "React"],
+      "demo": "https://react-keeper-app-one.vercel.app/",
+      "source": "https://github.com/SathishMyilsamy21/REACT_KEEPER-APP/tree/main/Keeper-App"
+    }
+  ]
